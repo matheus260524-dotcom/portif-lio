@@ -1,0 +1,28 @@
+body{
+    background-color: #F8F9FA;
+    color: #0F172A;
+}
+h1{
+    color: red;
+}
+a {
+    color: DodgerBlue;
+
+}
+p{
+    color: rgb(240, 236, 236);
+}
+.apresentacao__conteudo__texto{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.rodape{
+    padding: 24px;
+    color: rgb(0, 0, 0);
+    background-color: #031320;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
